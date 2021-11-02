@@ -1,0 +1,28 @@
+.mainDash {
+  margin-top: 90px;
+  padding: 35px;
+}
+
+.chatBtn{
+width: 231px;
+height: 35px;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+text-align: center;
+border: none;
+background-color:#211F8D ;
+color: #FFFFFF;
+}
+
+.moodTrack{
+  background-color: #EDF1FF;
+width: 76.53px;
+border-radius: 15px;
+height: 113.85px;
+}
+
+button {
+  cursor: pointer;
+}

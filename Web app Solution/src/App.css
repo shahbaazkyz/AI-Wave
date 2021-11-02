@@ -1,0 +1,20 @@
+body{
+  background-color: #F7F8FF;
+}
+
+.css-og52vs-MuiTableCell-root.MuiTableCell-head , .css-1wvnaxz-MuiTableCell-root.MuiTableCell-head{
+  background-color: #211F8D !important;
+}
+
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    background-color: #211F8D !important;
+
+}
+
+h3{
+  color: #211F8D;
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+  color: #211F8D;
+}
