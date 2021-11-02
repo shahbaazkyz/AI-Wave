@@ -101,7 +101,7 @@ To train the model the following configurations are needed: Firstly install the 
 - Scipy
 - Sklearn
 - Pickle
-- 
+
 #### Introduction
 We developed a Keywords Based Recommender System algorithm using textual information collected from hobbies, interests and tastes students (like a favorite music, movie, sport, book and other) to try matching with other similar profiles. 
 
