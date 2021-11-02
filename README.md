@@ -114,7 +114,7 @@ The virtual assistant has 3 main objectives, which are:
 
 So, with the information compiled, we can generate dashboards with our sentiment classification, emotion classification and topic modeling trained algorithms, thus managing to understand in simple terms how the person felt those days and about what issues they felt like this.
 
-With respect to the technology, our assistant was developed with the IBM Waston Assistant service, which can be found within the IBM Cloud catalog. The development of this virtual assistant was done through the interface provided by WA and the development output is a json file skill-VA-PauletX.json.
+With respect to the technology, our assistant was developed with the IBM Waston Assistant service, which can be found within the IBM Cloud catalog. The development of this virtual assistant was done through the interface provided by WA and the development output is a json file students_information_emotional.json
 
 The principal journey of questions and answers of our virtual assistant is like follow:
 
