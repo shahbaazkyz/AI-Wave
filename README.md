@@ -38,7 +38,6 @@ Contains the json for the virtual assitant implementation
 - Jhonatan Camasca Huaman
 - Neisser Alonzo Ale
 - Shahbaz Khan
-- 
 
 ##	MACHINE LEARNING
 ###	SENTIMENT CLASSIFICATION
